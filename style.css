@@ -1,0 +1,39 @@
+.searchbar-box{
+    background-color: #EEEE;
+    width: 1200px;
+    margin: auto;
+}
+.three-box{
+    text-align: center;
+    margin-left: 160px;
+
+}
+.box_1 {
+    float: left;
+    width: 400px;
+    background-color: #7EE5DA;
+    height: 100px;
+    margin-right: 2px;
+}
+.box_2 {
+    float: left;
+    width: 400px;
+    background-color: #70CCC2;
+    height: 100px;
+    margin-right: 2px;
+}
+
+.box_3 {
+    float: left;
+    width: 400px;
+    height: 100px;
+    background-color: #62B3AA;
+}
+
+ul {
+    list-style-type: none;
+}
+
+p{
+    text-align: center;
+}
